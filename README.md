@@ -1,6 +1,11 @@
-# GCS
+# Google Custom Search
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
+
+## Install
+
+Clone this Repo
+run 'npm install'
 
 ## Development server
 
