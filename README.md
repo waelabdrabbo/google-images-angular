@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Install
 
-Clone this Repo then run `npm install`
+Clone this Repo then run `npm install` and change the Google API Key and ID in `src\environments\environment.ts`
 
 ## Development server
 
