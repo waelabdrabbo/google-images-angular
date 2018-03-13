@@ -5,7 +5,7 @@
 
 export const environment = {
   production: false,
-  GCS_API_KEY: 'AIzaSyDvhQecBUHPQBiqvYZV6FLpvkj0bkTyxX4',
+  GCS_API_KEY: 'YOUR_API_KEY_HERE',
   GCS_API_URL: 'https://www.googleapis.com/customsearch/v1?key=',
-  GCS_ID: '015046164535897405758:ekitx9scwvu'
+  GCS_ID: 'YOUR_GCS_ID_HERE'
 };
