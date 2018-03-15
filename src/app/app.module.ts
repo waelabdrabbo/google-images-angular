@@ -10,7 +10,6 @@ import { HomeComponent } from './home/home.component';
 import { ImagesListComponent } from './images-list/images-list.component';
 import { ImagesServicesComponent, ImagesService } from './images-services/images-services.component';
 import { FooterComponent } from './footer/footer.component';
-import {MatExpansionModule} from '@angular/material/expansion';
 import * as $ from 'jquery';
 import {enableProdMode} from '@angular/core';
 enableProdMode();
@@ -28,8 +27,7 @@ enableProdMode();
     HttpClientModule,
     HttpModule,
     FormsModule,
-    BrowserAnimationsModule,
-    MatExpansionModule
+    BrowserAnimationsModule
   ],
   providers: [
     ImagesService,
